@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_xs">4dp</dimen>
+    <dimen name="margin_s">8dp</dimen>
+    <dimen name="margin_m">16dp</dimen>
+    <dimen name="margin_l">24dp</dimen>
+    <dimen name="margin_xl">32dp</dimen>
+    <dimen name="margin_xxl">40dp</dimen>
+    <dimen name="margin_xxxl">48dp</dimen>
+    <dimen name="portrait_splash_padding">50dp</dimen>
+    <dimen name="text_size_apptitle">20sp</dimen>
+    <dimen name="text_size_xs">12sp</dimen>
+    <dimen name="text_size_s">14sp</dimen>
+    <dimen name="text_size_m">16sp</dimen>
+    <dimen name="text_size_l">24sp</dimen>
+    <dimen name="cardCornerRadius">5dp</dimen>
+    <dimen name="cardElevation">4dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+    <dimen name="img_width_height">150dp</dimen>
+    <dimen name="slide_title">30dp</dimen>
+    <dimen name="slide_desc">16dp</dimen>
+    <dimen name="desc_padding">40dp</dimen>
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+</resources>
